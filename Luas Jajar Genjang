@@ -1,0 +1,13 @@
+Algoritma
+
+1. Masukkan Panjang(5).
+2. Masukkan Tinggi(3).
+3. Nilai Luas adalah Panjang x Tinggi
+4. Tampilkan Nilai Luas.
+
+PseudoCode
+
+1. Input Alas = 5
+2. Input Tinggi = 3
+3. Luas = Panjang * Tinggi
+4. Print Luas
