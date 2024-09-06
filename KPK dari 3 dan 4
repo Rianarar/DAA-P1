@@ -1,1 +1,17 @@
-Test
+Algoritma
+
+1. Masukkan angka 3
+2. Masukkan angka 4
+3. Tentukan Faktor Persekutuan Terbesar(FPB) dari kedua angka tersebut yaitu 1
+4. Nilai KPK adalah (3 x 4 / FPB)
+5. Tampilkan Nilai KPK
+
+PseudoCode
+
+1. Input = 3
+2. Input = 4
+3. 3 Mod 4 = 1
+4. 4 Mod 3 = 1
+5. FPB = 1
+6. KPK = 3 * 4 / 1
+7. Print KPK
