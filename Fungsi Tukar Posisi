@@ -1,0 +1,17 @@
+Algoritma
+
+1. Tentukan Manggis di piring 1, Pisang di piring 2, dan piring 3 kosong.
+2. Pindahkan Manggis dari piring 1 ke piring 3.
+3. Pindahkam Pisang dari piring 2 ke piring 1.
+4. Pindahkan Manggis dari piring 3 ke piring 2.
+5. Tampilkan Piring-piring tersebut.
+
+PseudoCode
+
+1. x = Manggis
+2. y = Pisang
+3. z = kosong(buffer)
+4. x = buffer
+5. y = x
+6. buffer = y
+7. print x, y, z
