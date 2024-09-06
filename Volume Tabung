@@ -1,0 +1,15 @@
+Algoritma
+
+1. Masukkan Jari-Jari(3).
+2. Masukkan Tinggi(5).
+3. Nilai Luas Lingkaran adalah Jari-Jari kuadrat x pi
+4. Nilai Volume adalah Luas Lingkaran x Tinggi
+4. Tampilkan Nilai Volume.
+
+PseudoCode
+
+1. Input Jari-Jari = 3
+2. Input Tinggi = 5
+3. Luas Lingkaran = Jari-Jari^2 * pi
+4. Volume = Luas Lingkaran * Tinggi
+5. print Volume
