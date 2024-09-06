@@ -1,0 +1,13 @@
+Algoritma
+
+1. Masukkan Alas(25).
+2. Masukkan Tinggi(30).
+3. Nilai Luas adalah Alas x Tinggi / 2.
+4. Tampilkan Nilai Luas.
+
+PseudoCode
+
+1. Input Alas = 25
+2. Input Tinggi = 30
+3. Luas = Alas * Tinggi / 2
+4. Print Luas
